@@ -20,12 +20,13 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding-bottom: -50px;
+  
   justify-content: center;
   background-color: #ffffff;
 }
 .home-image {
   width: 40%;
+  padding-top: 50px;
   margin-top: 20px;
   object-fit: cover;
 }
