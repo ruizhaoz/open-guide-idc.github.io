@@ -63,6 +63,7 @@
 .home-heading-container {
   width: 45%;
   display: flex;
+  margin-top: 40px;
   align-items: center;
   margin-bottom: var(--dl-space-space-fiveunits);
   flex-direction: column;
